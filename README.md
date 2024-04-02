@@ -3,7 +3,7 @@ Intrusion Detection Using Machine Learning
 
 
 ### Team Details :
-    1. Chintalapudi Divya
+    1. Divya Chintalapudi
     2. Keerthana Tammuluri
     3. Lahari Mattapalli
 ### INTRODUCTION
